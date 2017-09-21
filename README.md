@@ -1,5 +1,7 @@
 # ProjectStockPortfolio
 
+This is a class project I have built for my CSC 151 (Intro to Java) class. 
+
 •	allow a user to buy a stock with a given number of shares and price per share.  
 •	display the current portfolio (stock ticker, number of shares, initial price).  
 •	update the portfolio display for purchases and sales. 
